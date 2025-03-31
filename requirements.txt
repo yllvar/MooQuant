@@ -1,0 +1,3 @@
+moomoo-api
+pandas
+python-dotenv
