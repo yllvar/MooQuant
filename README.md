@@ -1,5 +1,7 @@
 # MooQuant - Quantitative Trading with MooMoo
 
+<img width="362" alt="Screenshot 2025-03-31 at 13 45 50" src="https://github.com/user-attachments/assets/2e15af3d-e115-4ba8-aae4-fe6c8577774a" />
+
 MooQuant is a Python framework for algorithmic trading using MooMoo's OpenD API. It provides real-time market data, order execution, and account management capabilities in a modular and scalable design.
 
 ## 🚀 Features
